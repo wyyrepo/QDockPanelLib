@@ -1,0 +1,2 @@
+# QDockPanelLib
+Qt Dock
